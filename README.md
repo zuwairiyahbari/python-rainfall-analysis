@@ -24,7 +24,9 @@ The program allows the user to work with rainfall data and organize it in differ
 
 ## Example Output
 
-Screenshots of the program output are included in the `screenshots` folder.
+![Program Output 1](program-output-1.png)
+
+![Program Output 2](program-output-2.png)
 
 ## Course Context
 
